@@ -1,0 +1,6 @@
+install.packages("R6")
+install.packages("findpython")
+install.packages("jsonlite")
+install.packages("argparse")
+install.packages("WebGestaltR")
+install.packages("stringr")

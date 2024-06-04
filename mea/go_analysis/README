@@ -1,0 +1,6 @@
+# MEA/GO_ANALYSIS
+
+This is the Dockerfile for the container used in MEA/GO_ANALYSIS/GO_ANALYSIS: jungwooseok/webgestalt:1.0.3
+
+
+`ORA_cmd.R`: script used within container

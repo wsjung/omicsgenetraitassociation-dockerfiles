@@ -1,0 +1,5 @@
+# MEA/PASCAL
+
+This is the Dockerfile for container used in MEA/PASCAL/RUN_PASCAL module: jungwooseok/mea_pascal:1.1
+
+`runPascal.py`: script used within container

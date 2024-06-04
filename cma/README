@@ -1,0 +1,7 @@
+# CMA
+
+This is the Dockerfile for the container used by the module CMA: jungwooseok/cma:1.2.7
+
+`cma.R`: script used with the container
+
+NOTE: This container is ready to be replaced by a BioContainer containing the CRAN release of [corrmeta](https://CRAN.R-project.org/package=corrmeta).

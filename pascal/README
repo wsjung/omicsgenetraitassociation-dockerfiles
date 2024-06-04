@@ -1,0 +1,5 @@
+# PASCAL
+
+This is the Dockerfile for the container used in PASCAL: jungwooseok/pascal:1.0.3
+
+The image builds from acharyas/pascalx_v6:latest which is the fixed container for PascalX package
